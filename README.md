@@ -1,4 +1,4 @@
-# CS-167-Twitter-Data-Analysis
+# CS-167-Final-Project
 ## Group 7 Project D: Twitter Data Analysis
 By: Francis Cuarteros (fcuar002), Eve Fraczkiewicz (efrac003), Joewe Low (jlow004), and Nathaniel Natividad (nnati004)
 
