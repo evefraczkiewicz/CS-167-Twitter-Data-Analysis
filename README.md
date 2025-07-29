@@ -6,8 +6,8 @@ By: Francis Cuarteros (fcuar002), Eve Fraczkiewicz (efrac003), Joewe Low (jlow00
 
 First I loaded the json file into a dataframe using the first argument in the command line as the input file.
 
-![alt text]((https://github.com/evefraczkiewicz/CS-167-Twitter-Data-Analysis/blob/79529394f14e7e2322c03cff7bae3580fd365abf/screenshots/task1_1.png))
-![alt text]([http://url/to/img.png](https://github.com/evefraczkiewicz/CS-167-Twitter-Data-Analysis/blob/79529394f14e7e2322c03cff7bae3580fd365abf/screenshots/task1_2.png))
+![alt text](https://github.com/evefraczkiewicz/CS-167-Twitter-Data-Analysis/blob/79529394f14e7e2322c03cff7bae3580fd365abf/screenshots/task1_1.png)
+![alt text](https://github.com/evefraczkiewicz/CS-167-Twitter-Data-Analysis/blob/79529394f14e7e2322c03cff7bae3580fd365abf/screenshots/task1_2.png)
 
 Then I used the createOrReplaceTempView to make the following SQL query:
 
